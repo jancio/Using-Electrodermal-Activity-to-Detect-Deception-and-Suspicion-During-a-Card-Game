@@ -31,3 +31,12 @@ Jan Ondras and Hatice Gunes.<br>
 [*Detecting Deception and Suspicion in Dyadic Game Interactions.*](https://dl.acm.org/citation.cfm?id=3242993)<br>
 In 20th ACM International Conference on Multimodal Interaction (ACM ICMI), 2018.<br>
 *Oral presentation.*
+
+### Citation
+
+	@inproceedings{Ondras2018DetectingDA,
+	  title={Detecting Deception and Suspicion in Dyadic Game Interactions},
+	  author={Jan Ondras and Hatice Gunes},
+	  booktitle={ICMI '18},
+	  year={2018}
+	}
