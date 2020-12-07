@@ -25,18 +25,19 @@ deception and suspicion. <br>To the best of my knowledge, this is the
 first work that uses EDA data to automatically detect both deception
 and suspicion in a dyadic game interaction setting.
 
-This project resulted in the following **conference paper**:
+This project led to a **conference paper**:
 
-Jan Ondras and Hatice Gunes.<br>
-[*Detecting Deception and Suspicion in Dyadic Game Interactions.*](https://dl.acm.org/citation.cfm?id=3242993)<br>
-In 20th ACM International Conference on Multimodal Interaction (ACM ICMI), 2018.<br>
-*Oral presentation.*
+> **Jan Ondras** and Hatice Gunes<br>
+> [*Detecting Deception and Suspicion in Dyadic Game Interactions*](https://dl.acm.org/citation.cfm?id=3242993)<br>
+> In 20th ACM International Conference on Multimodal Interaction (ACM ICMI), 2018<br>
+> Oral presentation
 
 ### Citation
 
-	@inproceedings{Ondras2018DetectingDA,
-	  title={Detecting Deception and Suspicion in Dyadic Game Interactions},
-	  author={Jan Ondras and Hatice Gunes},
-	  booktitle={ICMI '18},
+	@inproceedings{ondras2018detecting,
+	  title={Detecting deception and suspicion in dyadic game interactions},
+	  author={Ondras, Jan and Gunes, Hatice},
+	  booktitle={Proceedings of the 20th ACM International Conference on Multimodal Interaction},
+	  pages={200--209},
 	  year={2018}
 	}
